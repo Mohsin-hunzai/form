@@ -1,0 +1,10 @@
+.form-area{
+    width: 40%;
+    margin: auto;
+    
+}
+form{
+    padding: 30px;
+    line-height: 50px;
+    border: 1px gray solid;
+}
